@@ -35,8 +35,7 @@ namespace WindowsRokuRemoteApp
             while (running)
             {
                 
-                var key = Console.ReadKey(intercept: true); // intercept: true to prevent key from appearing in console
-                Console.WriteLine(); // Move to the next line after the key press
+                var key = Console.ReadKey(intercept: true);
 
                 switch (key.Key)
                 {
