@@ -18,4 +18,5 @@ V - VolumeUp
 D - VolumeDown
 H - Home
 B - Back
-Q - Quit```
+Q - Quit
+```
