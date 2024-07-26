@@ -1,6 +1,7 @@
 As the Repo name suggests, this is a windows Roku Remote app.
 
 Key presses do different actions:
+```
 Up Arrow - Move Up
 Down Arrow - Move Down
 Left Arrow - Move Left
@@ -17,4 +18,4 @@ V - VolumeUp
 D - VolumeDown
 H - Home
 B - Back
-Q - Quit
+Q - Quit```
